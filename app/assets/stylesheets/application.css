@@ -20,6 +20,16 @@ html {
 
 body {
 	width: 100%;
-	font-family: "Aleo", Sans-Serif;
+	font-family: 'Mukta Malar', sans-serif;
 	font-weight: 100;
+}
+
+h1.head {
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 4%;
+	text-align: center;
+}
+
+h2.head {
+	text-align: center;
 }

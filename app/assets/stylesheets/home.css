@@ -2,7 +2,7 @@
 	margin-top: 5%;
 	margin-left: auto;
 	margin-right: auto;
-	border: 1px black solid;
+
 }
 
 ul.tabs {
@@ -23,6 +23,11 @@ ul.tabs li.current {
 .tab-content {
 	display: none;
 	padding: 3.5%;
+}
+
+.tabs-content {
+	height: 180px;
+	border-bottom: 1px black solid;
 }
 
 .tab-content.current {
